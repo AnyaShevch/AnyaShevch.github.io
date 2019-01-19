@@ -1339,7 +1339,7 @@ input, select, textarea {
 					padding: 0 1.25rem 0 1.45rem;
 					text-transform: uppercase;
 					letter-spacing: 0.2rem;
-					font-size: 1rem;
+					font-size: 1.04rem;
 					border-bottom: 0;
 				}
 
@@ -1438,7 +1438,7 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 
 			#header {
-				padding: 1.5rem 0;
+				padding: 0 0 5rem;
 			}
 
 				#header .content .inner {
